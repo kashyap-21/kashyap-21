@@ -33,8 +33,8 @@
 
 
 <!-- [![Twitter: RishavSingh0](https://img.shields.io/twitter/follow/rishavsingh0?style=social)](https://twitter.com/rishavsingh0)
-[![Linkedin: rishav-singh-0](https://img.shields.io/badge/-rishav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishav-singh-0/)](https://www.linkedin.com/in/rishav-singh-0/)
-[![GitHub rishav-singh-0](https://img.shields.io/github/followers/rishav-singh-0?label=follow&style=social)](https://github.com/rishav-singh-0)
+[![Linkedin: rishav-singh-0](https://img.shields.io/badge/-rishav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashyap-joshi-415381191/)](https://www.linkedin.com/in/kashyap-joshi-415381191/)
+[![GitHub rishav-singh-0](https://img.shields.io/github/followers/rishav-singh-0?label=follow&style=social)](https://www.linkedin.com/in/kashyap-joshi-415381191/)
  -->
 
 ### :computer: Languages:  
